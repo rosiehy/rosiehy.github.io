@@ -4,4 +4,5 @@ excerpt: "ITS CORN"
 collection: portfolio
 ---
 
-Me Enjoying a fantastic corn at the NC State Fair
+Me enjoying a fantastic corn at the NC State Fair
+![corn_pic](/images/corn.jpg)
