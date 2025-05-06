@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Rosie Li / Personal Website"
+title                    : "Rosie Li / A Taste of My Life"
 title_separator          : "-"
 name                     : &name "Rosie Li"
 description              : &description "personal description"
@@ -22,10 +22,10 @@ repository               : "rosiehy/rosiehy.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "rosie.jpg"
+  avatar           : "foodie.jpg"
   name             : "Rosie Li"
   pronouns         : # example: "she/her"  
-  bio              : "Cornell Financial Engineer | Nice to meet you!"
+  bio              : "avid world travellor and food connoisseur | Nice to meet you!"
   location         : "New York"
   employer         : "Cornell University"
   uri              : # URL
@@ -58,7 +58,7 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : # Username
+  instagram        : "rosiehyli"
   lastfm           : # Username
   linkedin         : # Username
   mastodon         : # URL
