@@ -10,8 +10,7 @@ tags:
 ---
 one of my new york trip's best bites
 
-NUBIANI - Koreatown, New York
-======
+## NUBIANI - Koreatown, New York
 
 Tucked in the heart of Koreatown, *Nubiani* delivers one of the best Korean BBQ experiences I’ve had in New York. We ordered the beef and pork combo, and every cut was rich, tender, and grilled to perfection. The pork belly had the ideal crisp-to-fat ratio, while the marinated beef practically melted.
 
