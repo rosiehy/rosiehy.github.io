@@ -1,11 +1,11 @@
 ---
-title: "Cooking Conversations"
+title: "Cooking Conversations: A Taste of China"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'Cooking Conversations: A Taste of China'
 date: 2023-05-03
-venue: 'Journal 1'
+venue: 'AMES 107: Narrating East Asia through Word and Image'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
@@ -19,3 +19,4 @@ For this project, I created a personal food journal documenting the meals I cook
 
 Through these conversations, I explored their perceptions of Chinese cuisine and culture, and reflected on how food can serve as both a cultural bridge and a narrative medium. The final product included a cooking video, meal footage, and dialogue excerpts — offering a taste of China through my lens and my kitchen.
 
+[Download My Presentation](/files/Cooking Conversations_ A taste of China.pdf)
