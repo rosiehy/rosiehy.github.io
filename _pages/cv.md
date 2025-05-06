@@ -11,35 +11,56 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.Eng. in Financial Engineering, Cornell University, December 2025 (Expected)
+* B.S. in Financial Economics, Duke University, 2024
+* B.S.E. in Risk, Data, Financial Engineering, Duke University, 2024
+* T.A.S.T.E. in Culinary Curiosity, Snackademia University, Since Birth (Ongoing)
+
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Summer 2024: Data Analyst  
+  * Deepseek, Hangzhou, China  
+  * Duties included: Evaluating machine learning models, improving AI accuracy using Python (Pandas, NumPy, Scikit-learn)   
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2023: Investment Banking Intern, TMT Group  
+  * Huatai United Securities, Shanghai, China  
+  * Duties included: Supporting a 4.5B HKD IPO, creating teasers and coordinating meetings with sovereign investment funds
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2020-Present: Freelance Food Explorer  
+  * World Palate Institute (The world is my Oyster)  
+  * Duties included: Sampling Michelin-star meals across 15+ countries, rating them with absolutely no objectivity  
+  * Supervisor: My Taste Buds  
+
+* Fall 2020 - Present: Late-Night Snack Strategist  
+  * Fridge Department, The Whole Wide World  
+  * Duties included: Coordinating midnight cravings, conducting field research on cereal as a dinner replacement  
+  * Supervisor: The Empty Stomach  
+
+* Ongoing: World Traveler & Culinary Cartographer  
+  * Self-Directed, Global  
+  * Duties included: Navigating food markets in 15+ countries, taste-testing local delicacies from Tokyo sushi to Moroccan tagine  
+  * Specialized in: Jet lagged dining, chopstick diplomacy, and passport-stamped stomachs  
+  * Supervisor: Global Curiosity (and occasionally Google Translate)
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python, SQL, MATLAB, STATA, Java, Excel  
+* Financial Modeling, Trading Algorithms, Data Visualization
+* Foodie (Advanced Leveled)
+  * Michelin Star Navigation
+  * Cross-Cultural Palate Adaptation
+  * Menu Decoding in 3.5 Languages
+  * Street Food Risk Management
+  * Sauce Pairing Optimization
+  * Spicy Tolerance Stress Testing
+  * Dessert Prioritization Under Constraints
+  * Multi-Course Endurance Strategy  
+* World Travelling
+  * Sleeping on Planes
+  * Trip Planning
+  * Meeting new People
+  * Restaurant and Hotel Booking Booking
 
 Publications
 ======
@@ -52,13 +73,8 @@ Talks
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Appointed Chair of the Snack Committee (self-appointed, but widely respected)
