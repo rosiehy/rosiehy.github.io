@@ -22,10 +22,10 @@ repository               : "rosiehy/rosiehy.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "rosie.png"
+  avatar           : "rosie.jpg"
   name             : "Rosie Li"
   pronouns         : # example: "she/her"  
-  bio              : "Cornell Financial Engineer! Nice to meet you!"
+  bio              : "Cornell Financial Engineer | Nice to meet you!"
   location         : "New York"
   employer         : "Cornell University"
   uri              : # URL
