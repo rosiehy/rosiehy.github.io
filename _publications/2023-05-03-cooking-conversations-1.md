@@ -2,13 +2,11 @@
 title: "Cooking Conversations: A Taste of China"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2023-05-03-cooking-conversations-1
 excerpt: 'Cooking Conversations: A Taste of China'
 date: 2023-05-03
 venue: 'AMES 107: Narrating East Asia through Word and Image'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
+slidesurl: '/files/Cooking Conversations_ A taste of China.pdf'
 citation: 'Personal Research, Social Experiments'
 ---
 
