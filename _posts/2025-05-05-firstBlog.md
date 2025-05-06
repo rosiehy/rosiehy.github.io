@@ -6,4 +6,6 @@ tags:
   - test
 ---
 
+Rosie's Food Blog!
+
 ![rosie_pic](/images/rosie.jpg)
