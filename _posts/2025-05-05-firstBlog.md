@@ -1,9 +1,9 @@
 ---
-title: 'Test Blog'
+title: 'Food Blog'
 date: 2025-05-05
-permalink: /posts/2012/08/blog-post-1/
+permalink: /posts/2025/05/test-blog/
 tags:
   - test
 ---
 
-This is my first blog. Nice to meet you!
+![rosie_pic](/images/rosie.jpg)
