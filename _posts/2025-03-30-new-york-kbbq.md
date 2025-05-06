@@ -1,12 +1,15 @@
 ---
-title: 'Blog Post number 4'
-date: 2024-03-30
+title: 'NUBIANI - Koreatown, New York'
+date: 2025-03-30
 permalink: /posts/2025/03/new-york-NUBIANI/
 tags:
   - yummy food
   - new york
   - koreatown
+
 ---
+one of my new york trip's best bites
+
 NUBIANI - Koreatown, New York
 ======
 
