@@ -1,5 +1,5 @@
 ---
-title: 'NUBIANI - Koreatown, New York'
+title: 'NUBIANI - Koreatown, New York City'
 date: 2025-03-30
 permalink: /posts/2025/03/new-york-NUBIANI/
 tags:
